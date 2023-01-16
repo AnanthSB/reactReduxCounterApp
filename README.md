@@ -5,7 +5,9 @@ install redux:
 >>npm i redux react-redux
 
 This app is built using tailwind css
+
 >>-------------------Notes------------------<<
+
 Actions:- What to do?
 Reducers:- How to do?
 
