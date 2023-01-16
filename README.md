@@ -6,6 +6,8 @@ install redux:
 
 This app is built using tailwind css
 
+Hit npm i in command shell before running the app to install required dependencies.
+
 >>-------------------Notes------------------<<
 
 Actions:- What to do?
